@@ -1,0 +1,34 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.suo
+*.sln
+
+# Project-wide temporary or local config
+logs.txt
+logs/
+tmp/
+temp/
+*.tmp
+*.temp
+secrets/
+secrets.json
+
+# Project specific root folders to ignore
+context/
+plan/
+.neon
+.neonrc
+.wrangler/
