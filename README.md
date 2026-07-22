@@ -51,7 +51,7 @@ Requires API keys from [Google AI](https://aistudio.google.com/), [OpenRouter](h
 
 ### BrainLattice Web App
 
-1. Open [BrainLattice web app](https://brainlattice.rickytang.dev).
+1. Open [BrainLattice web app]
 2. Fill in your API keys by clicking the settings icon in the top navigation bar.
 3. (Optional) You can sign up for an account to sync your projects across devices; otherwise it's local-only.
 4. Upload a PDF.
