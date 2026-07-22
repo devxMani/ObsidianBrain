@@ -20,8 +20,6 @@ https://github.com/user-attachments/assets/765c4959-ead3-4b88-8e18-a7f09d6d923e
 
 https://github.com/user-attachments/assets/57beb200-7493-40d0-ae18-031e1415e752
 
-Or watch it on [YouTube](https://youtu.be/T3rIfQf7UWE).
-
 ## The Problem
 
 PDFs are linear, but knowledge is a network. Tools like NotebookLM or ChatPDF are great for quick Q & A, but they lock your data inside their SaaS ecosystems.
